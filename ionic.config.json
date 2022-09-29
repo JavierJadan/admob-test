@@ -1,0 +1,7 @@
+{
+  "name": "academyAds",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
